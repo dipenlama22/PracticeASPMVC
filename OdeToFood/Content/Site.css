@@ -754,3 +754,15 @@ tr.pager td {
             margin: 0;
         }
 }
+
+.review {
+       padding: 5px;
+       width: auto;
+    vertical-align: top;
+}
+
+.review:nth-child(even) {
+    background: lightgray;
+}
+    
+
